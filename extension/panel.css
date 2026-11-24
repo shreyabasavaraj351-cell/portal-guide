@@ -1,0 +1,10 @@
+.pga-highlight { outline: 3px solid #f59e0b !important; outline-offset: 2px; }
+#pga-panel {
+  position: fixed; right: 16px; bottom: 16px; width: 300px; z-index: 2147483647;
+  background: #fff; border: 2px solid #f59e0b; border-radius: 12px; padding: 12px;
+  font: 15px/1.4 system-ui, sans-serif; color: #222; box-shadow: 0 6px 20px rgba(0,0,0,.2);
+}
+#pga-panel .pga-head { display: flex; justify-content: space-between; margin-bottom: 8px; }
+#pga-text { margin-bottom: 8px; }
+#pga-docs { font-size: 13px; color: #92400e; margin-bottom: 8px; }
+#pga-listen { background: #f59e0b; border: 0; border-radius: 8px; padding: 6px 12px; cursor: pointer; }

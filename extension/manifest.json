@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Portal Guide Agent",
+  "version": "0.1.0",
+  "description": "Voice guide that explains each field of government portals. Read-only: never fills or submits forms.",
+  "permissions": ["storage"],
+  "host_permissions": ["http://localhost:8787/*", "https://*.amazonaws.com/*"],
+  "content_scripts": [
+    {
+      "matches": ["https://ssp.karnataka.gov.in/*", "https://ssp.postmatric.karnataka.gov.in/*", "file:///*", "http://localhost/*"],
+      "js": ["content.js"],
+      "css": ["panel.css"],
+      "run_at": "document_idle"
+    }
+  ],
+  "background": { "service_worker": "background.js" }
+}
