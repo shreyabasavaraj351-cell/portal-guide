@@ -1,0 +1,44 @@
+[
+  {
+    "keywords": ["aadhaar", "aadhar", "ಆಧಾರ್"],
+    "en": "Your 12-digit Aadhaar number. Keep your Aadhaar card ready.",
+    "hi": "आपका 12 अंकों का आधार नंबर। अपना आधार कार्ड पास रखें।",
+    "kn": "ನಿಮ್ಮ 12 ಅಂಕಿಯ ಆಧಾರ್ ಸಂಖ್ಯೆ. ಆಧಾರ್ ಕಾರ್ಡ್ ಹತ್ತಿರ ಇಟ್ಟುಕೊಳ್ಳಿ.",
+    "documents": ["Aadhaar card"]
+  },
+  {
+    "keywords": ["rd number", "rd no", "caste certificate", "income certificate"],
+    "en": "The RD number is printed on the caste or income certificate issued by the Revenue Department. Keep that certificate ready.",
+    "hi": "आरडी नंबर राजस्व विभाग द्वारा जारी जाति या आय प्रमाणपत्र पर छपा होता है। वह प्रमाणपत्र पास रखें।",
+    "kn": "ಆರ್‌ಡಿ ಸಂಖ್ಯೆ ಕಂದಾಯ ಇಲಾಖೆ ನೀಡಿದ ಜಾತಿ ಅಥವಾ ಆದಾಯ ಪ್ರಮಾಣಪತ್ರದ ಮೇಲೆ ಮುದ್ರಿತವಾಗಿರುತ್ತದೆ. ಆ ಪ್ರಮಾಣಪತ್ರ ಹತ್ತಿರ ಇಟ್ಟುಕೊಳ್ಳಿ.",
+    "documents": ["Caste certificate", "Income certificate"]
+  },
+  {
+    "keywords": ["ifsc"],
+    "en": "IFSC is the 11-character code of your bank branch. You can find it on your bank passbook.",
+    "hi": "आईएफएससी आपकी बैंक शाखा का 11 अक्षरों का कोड है। यह बैंक पासबुक पर मिलता है।",
+    "kn": "ಐಎಫ್‌ಎಸ್‌ಸಿ ನಿಮ್ಮ ಬ್ಯಾಂಕ್ ಶಾಖೆಯ 11 ಅಕ್ಷರಗಳ ಕೋಡ್. ಇದು ಬ್ಯಾಂಕ್ ಪಾಸ್‌ಬುಕ್‌ನಲ್ಲಿ ಸಿಗುತ್ತದೆ.",
+    "documents": ["Bank passbook"]
+  },
+  {
+    "keywords": ["account number", "bank account"],
+    "en": "Your bank account number where the scholarship money will be sent. It must be linked to Aadhaar. Check your passbook.",
+    "hi": "आपका बैंक खाता नंबर जिसमें छात्रवृत्ति का पैसा आएगा। यह आधार से जुड़ा होना चाहिए। पासबुक देखें।",
+    "kn": "ವಿದ್ಯಾರ್ಥಿವೇತನದ ಹಣ ಬರುವ ನಿಮ್ಮ ಬ್ಯಾಂಕ್ ಖಾತೆ ಸಂಖ್ಯೆ. ಇದು ಆಧಾರ್‌ಗೆ ಲಿಂಕ್ ಆಗಿರಬೇಕು. ಪಾಸ್‌ಬುಕ್ ನೋಡಿ.",
+    "documents": ["Bank passbook"]
+  },
+  {
+    "keywords": ["annual income", "family income"],
+    "en": "Total yearly income of your whole family, exactly as written in your income certificate.",
+    "hi": "आपके पूरे परिवार की सालाना कुल आय, जैसी आय प्रमाणपत्र में लिखी है।",
+    "kn": "ನಿಮ್ಮ ಕುಟುಂಬದ ಒಟ್ಟು ವಾರ್ಷಿಕ ಆದಾಯ, ಆದಾಯ ಪ್ರಮಾಣಪತ್ರದಲ್ಲಿ ಬರೆದಿರುವಂತೆಯೇ.",
+    "documents": ["Income certificate"]
+  },
+  {
+    "keywords": ["mobile", "phone"],
+    "en": "Your own active mobile number. OTPs and updates will come here.",
+    "hi": "आपका अपना चालू मोबाइल नंबर। ओटीपी और अपडेट यहीं आएंगे।",
+    "kn": "ನಿಮ್ಮದೇ ಚಾಲ್ತಿಯಲ್ಲಿರುವ ಮೊಬೈಲ್ ಸಂಖ್ಯೆ. ಒಟಿಪಿ ಮತ್ತು ಮಾಹಿತಿ ಇಲ್ಲಿಗೆ ಬರುತ್ತದೆ.",
+    "documents": []
+  }
+]
